@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/C4sp3r-x/shop-react/static/css/main.3b33c37b.chunk.css",
+    "main.js": "/C4sp3r-x/shop-react/static/js/main.c0f2cad8.chunk.js",
+    "main.js.map": "/C4sp3r-x/shop-react/static/js/main.c0f2cad8.chunk.js.map",
+    "runtime-main.js": "/C4sp3r-x/shop-react/static/js/runtime-main.2fdb2b4c.js",
+    "runtime-main.js.map": "/C4sp3r-x/shop-react/static/js/runtime-main.2fdb2b4c.js.map",
+    "static/js/2.a69dac63.chunk.js": "/C4sp3r-x/shop-react/static/js/2.a69dac63.chunk.js",
+    "static/js/2.a69dac63.chunk.js.map": "/C4sp3r-x/shop-react/static/js/2.a69dac63.chunk.js.map",
+    "index.html": "/C4sp3r-x/shop-react/index.html",
+    "static/css/main.3b33c37b.chunk.css.map": "/C4sp3r-x/shop-react/static/css/main.3b33c37b.chunk.css.map",
+    "static/js/2.a69dac63.chunk.js.LICENSE.txt": "/C4sp3r-x/shop-react/static/js/2.a69dac63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fdb2b4c.js",
+    "static/js/2.a69dac63.chunk.js",
+    "static/css/main.3b33c37b.chunk.css",
+    "static/js/main.c0f2cad8.chunk.js"
+  ]
+}
